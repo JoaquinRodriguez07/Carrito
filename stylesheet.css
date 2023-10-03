@@ -1,0 +1,10 @@
+#carrito {
+    background-color: red;
+    height: 200px;
+}
+#top {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+}
